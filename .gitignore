@@ -1,0 +1,22 @@
+# Credentials
+credentials.json
+*.json.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config with secrets
+config.local.yaml

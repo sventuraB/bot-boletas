@@ -1,0 +1,9 @@
+google:
+  credentials_path: "credentials.json"
+  drive_folder_id: "1IetNtxAsmSMH5SKFdLthdUCAaY-6iPo5"
+  spreadsheet_id: "1j5aHM_f_YvlYqW1tc5t3AUU8q7KF1ei37VUj57xXuS4"
+  sheet_name: "Datos"
+
+processing:
+  skip_already_processed: true
+  log_level: "INFO"
